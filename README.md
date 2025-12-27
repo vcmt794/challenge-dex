@@ -1,5 +1,3 @@
----
-
 # 🏗️ Simple DEX (ETH ↔ BAL) – Hướng dẫn chạy theo từng Checkpoint
 
 Tài liệu này hướng dẫn **từng bước chạy và hoàn thành các checkpoint** của challenge **Simple Decentralized Exchange (DEX)** sử dụng **Scaffold-ETH**.
